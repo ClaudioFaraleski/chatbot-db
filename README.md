@@ -100,6 +100,12 @@ Processa mensagens e retorna respostas.
 }
 ```
 
+## 🌐 Demonstração
+
+Acesse o projeto online: [Chatbot Técnico](https://chatboottecnico.netlify.app/public/index.html)
+
+![Preview do Chatbot](preview.png)
+
 ## 👥 Contribuição
 
 1. Faça um Fork do projeto
@@ -114,4 +120,4 @@ For By Claudio Faraleski Jr
 
 ## 📞 Suporte
 
-Para suporte, envie um email para suporte@seudominio.com ou abra uma issue no GitHub.
+Para suporte, envie um email para suporte@seudominio.com ou acesse nossa [página de demonstração](https://chatboottecnico.netlify.app/public/index.html).
