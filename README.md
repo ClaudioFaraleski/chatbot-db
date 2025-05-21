@@ -1,5 +1,20 @@
 # Sistema de Chatbot com Banco de Dados
 
+## 📝 Resumo do Projeto
+
+Este é um sistema de chatbot de suporte técnico desenvolvido com Node.js e MySQL. O projeto oferece uma interface moderna e responsiva para atendimento automatizado, com recursos como:
+
+- Atendimento 24/7 automatizado
+- Interface profissional e intuitiva
+- Sistema de menu multinível para navegação
+- Histórico completo de atendimentos
+- Backend robusto com Node.js e Express
+- Banco de dados MySQL para persistência
+- API RESTful para comunicação
+- Design responsivo para todos dispositivos
+
+[Demonstração ao vivo](https://chatboottecnico.netlify.app/public/index.html)
+
 ![Node.js](https://img.shields.io/badge/Node.js-v18.x-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![Express](https://img.shields.io/badge/Express-4.x-lightgrey)
